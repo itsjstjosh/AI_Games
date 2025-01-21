@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\B00798403\Documents\uni\ai lab\lab1-cpp-raylib\part2\raylib2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\B00798403\Documents\uni\ai lab\lab1-cpp-raylib\part2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F048125B-EB5F-31DE-8A9B-5B6B31BADC10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

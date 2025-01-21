@@ -1,0 +1,3 @@
+C:/Users/B00798403/Documents/uni/ai lab/lab1-cpp-raylib/part1/build/CMakeFiles/name-age.dir
+C:/Users/B00798403/Documents/uni/ai lab/lab1-cpp-raylib/part1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/B00798403/Documents/uni/ai lab/lab1-cpp-raylib/part1/build/CMakeFiles/ZERO_CHECK.dir

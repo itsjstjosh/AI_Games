@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B00798403\\Documents\\uni\\ai lab\\lab1-cpp-raylib\\part2\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DECE052-D26B-3638-A337-06F959E16B31}|raylib2.vcxproj|C:\\Users\\B00798403\\Documents\\uni\\ai lab\\lab1-cpp-raylib\\part2\\raylib2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB4CA1D-A8C6-31C8-80D1-B6CC71B7770F}|raylib1.vcxproj|C:\\Users\\B00798403\\Documents\\uni\\ai lab\\lab1-cpp-raylib\\part2\\raylib1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "raylib2.cpp",
+              "DocumentMoniker": "C:\\Users\\B00798403\\Documents\\uni\\ai lab\\lab1-cpp-raylib\\part2\\raylib2.cpp",
+              "RelativeDocumentMoniker": "..\\raylib2.cpp",
+              "ToolTip": "C:\\Users\\B00798403\\Documents\\uni\\ai lab\\lab1-cpp-raylib\\part2\\raylib2.cpp",
+              "RelativeToolTip": "..\\raylib2.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T15:56:34.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "raylib1.cpp",
+              "DocumentMoniker": "C:\\Users\\B00798403\\Documents\\uni\\ai lab\\lab1-cpp-raylib\\part2\\raylib1.cpp",
+              "RelativeDocumentMoniker": "..\\raylib1.cpp",
+              "ToolTip": "C:\\Users\\B00798403\\Documents\\uni\\ai lab\\lab1-cpp-raylib\\part2\\raylib1.cpp",
+              "RelativeToolTip": "..\\raylib1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T15:41:27.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
