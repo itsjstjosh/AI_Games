@@ -1,0 +1,10 @@
+to do the cmake thingy:
+
+(using lab 3 as an example)
+- open cmake
+- then open the lab files
+- go into the "nim" foler
+- drag and drop the "CMakeLsists" file into cmake
+- configur - generate - open project
+
+then thats the file made :D 

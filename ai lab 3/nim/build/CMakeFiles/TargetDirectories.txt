@@ -1,0 +1,4 @@
+C:/Users/B00798403/Documents/uni/AI_Games_repo/ai lab 3/nim/build/CMakeFiles/nim-sum.dir
+C:/Users/B00798403/Documents/uni/AI_Games_repo/ai lab 3/nim/build/CMakeFiles/nim.dir
+C:/Users/B00798403/Documents/uni/AI_Games_repo/ai lab 3/nim/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/B00798403/Documents/uni/AI_Games_repo/ai lab 3/nim/build/CMakeFiles/ZERO_CHECK.dir
