@@ -66,23 +66,41 @@ public:
     std::cin >> heap_id;
     if (heap_id >= num_heaps)
     {
-      std::cout << "Oops! Try again..." << std::endl;
+      std::cout << "1 Oops! Try again..." << std::endl;
       return false;
     }
     std::cout << "Remove how many stones? (max " << state_[heap_id] << ")\n";
     std::cin >> nremove;
     if (nremove > state_[heap_id] || nremove == 0)
     {
-      std::cout << "Oops! Try again..." << std::endl;
+      std::cout << "2 Oops! Try again..." << std::endl;
       return false;
     }
     state_[heap_id] -= nremove;
     return true;
+    
   }
 
   void computer_move()
   {
     // does nothing so far
+   unsigned int heap_id{}, nremove{};
+   
+   heap_id = 0;
+   if (heap_id >= num_heaps)
+   {
+       heap_id + 1;
+       
+       
+   }
+
+   nremove = 1;
+   if (nremove > state_[heap_id] || nremove == 0) 
+   {
+       heap_id = heap_id + 1;
+   }
+   state_[heap_id] -= nremove;
+
   }
 
 };
