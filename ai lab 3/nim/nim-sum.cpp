@@ -1,9 +1,11 @@
 #include <iostream>
 #include <vector>
 
-unsigned int nim_sum(unsigned int a, unsigned int b, unsigned int c) {
+unsigned int nim_sum(unsigned int = 5, unsigned int = 4, unsigned int  = 3) {
   // Add code here
-  return 0; // you will change this to return something else
+		
+
+	return 0; // you will change this to return something else
 }
 
 unsigned int nary_nim_sum(const std::vector<unsigned>& v)
