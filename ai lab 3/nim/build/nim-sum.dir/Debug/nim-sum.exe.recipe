@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\B00798403\Documents\uni\AI_Games_repo\ai lab 3\nim\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\Joshf\Documents\uni\3rd year\github\AI_Games\ai lab 3\nim\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\B00798403\Documents\uni\AI_Games_repo\ai lab 3\nim\build\Debug\nim-sum.exe</FullPath>
+      <FullPath>C:\Users\Joshf\Documents\uni\3rd year\github\AI_Games\ai lab 3\nim\build\Debug\nim-sum.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

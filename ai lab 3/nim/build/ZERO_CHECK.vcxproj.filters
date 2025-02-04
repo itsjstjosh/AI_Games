@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\B00798403\Documents\uni\AI_Games_repo\ai lab 3\nim\build\CMakeFiles\2b4a596057c4e3cfc9f9ddfd279a118a\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\Joshf\Documents\uni\3rd year\github\AI_Games\ai lab 3\nim\build\CMakeFiles\e7e4d7359359f326aed173670a68a5b5\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{120C7B38-EACD-3A61-9A46-525224BF0C6A}</UniqueIdentifier>
+      <UniqueIdentifier>{A243CD99-9C16-3760-BEB4-54068AECC4FE}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
